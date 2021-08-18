@@ -1,0 +1,30 @@
+1628856704715	geckodriver	INFO	Listening on 127.0.0.1:55202
+1628856707737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofile6BncaE"
+1628856728133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofile6BncaE\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628856784338	Marionette	INFO	Listening on port 55211
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 11420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628860662533	Marionette	INFO	Stopped listening on port 55211
+round" "-no-remote" "-profile" "C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofileYtMurN"
+1628857469594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofileYtMurN\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628857488148	Marionette	INFO	Listening on port 50653
+1628857491626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628857523501	Marionette	INFO	Stopped listening on port 50653
+JavaScript error: /accounts/static/_/js/k=gaia.gaiafe_glif.en_GB.t7qtXjDYbno.O/am=B8jRwohKPCABAEAeAAAAAEAAAOBoAVAGmOMNHw/d=1/excm=glif_initial_css/rs=ABkqax11taf2J3BQQ3MjqQq_5RgjBT1kcQ/m=glifb,identifier_view,unknownerror_view, line 989: NS_ERROR_NOT_INITIALIZED: 

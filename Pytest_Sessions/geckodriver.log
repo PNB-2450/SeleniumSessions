@@ -1,0 +1,89 @@
+1628862064334	geckodriver	INFO	Listening on 127.0.0.1:60204
+1628862068523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofilewfSobH"
+1628862087845	Marionette	INFO	Marionette enabled
+[Parent 2788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofilewfSobH\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628862139956	Marionette	INFO	Listening on port 56812
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1628862155327	Marionette	INFO	Stopped listening on port 56812
+1628862739619	geckodriver	INFO	Listening on 127.0.0.1:64793
+1628862745974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofilefMWwFe"
+1628862760526	Marionette	INFO	Marionette enabled
+[Parent 12148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofilefMWwFe\\search.json.mozlz4", (void 0)))
+1628862838652	Marionette	INFO	Listening on port 64801
+console.warn: services.settings: main/whats-new-panel sync already running
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+[Parent 12148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628863152851	Marionette	INFO	Stopped listening on port 64801
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628998697339	geckodriver	INFO	Listening on 127.0.0.1:55338
+1628998700403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofileA6s6qS"
+1628998714682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofileA6s6qS\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628998766563	Marionette	INFO	Listening on port 62125
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: shader-cache: Failed to create file: The system cannot find the path specified. (os error 3)
+[2021-08-15T04:01:36Z ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: The system cannot find the path specified. (os error 3)
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+[Parent 9084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629000108023	Marionette	INFO	Stopped listening on port 62125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+AppData\\Local\\Temp\\rust_mozprofileEEI3Mt"
+1628999617735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofileEEI3Mt\\search.json.mozlz4", (void 0)))
+1628999633123	Marionette	INFO	Listening on port 64761
+1628999636842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://smartmoney.angelbroking.com/login/, line 1785: ReferenceError: importScripts is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1628999654211	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://de41hj8xu1b85.cloudfront.net/static/assets/js/offline-google-analytics.js, line 64: TypeError: global.shed is undefined
+1628999663511	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://smartmoney.angelbroking.com/login/, line 1785: ReferenceError: importScripts is not defined
+1628999672398	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://de41hj8xu1b85.cloudfront.net/static/assets/js/offline-google-analytics.js, line 64: TypeError: global.shed is undefined
+1628999673479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1628999681619	Marionette	INFO	Stopped listening on port 64761
+[Child 9548, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 9548, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1629000757367	geckodriver	INFO	Listening on 127.0.0.1:59626
+1629000761648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofilePDMiEh"
+1629000775234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pnb98\\AppData\\Local\\Temp\\rust_mozprofilePDMiEh\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629000846284	Marionette	INFO	Listening on port 50442
